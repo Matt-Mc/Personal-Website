@@ -3,7 +3,10 @@
 	margin: 0;
 	font-family: 'Roboto', Times, serif;
   font-size: 21px;
+}
 
+.wrapper{
+	text-align: center;
 }
 
 .jumbotronAbout{
@@ -53,7 +56,7 @@ li {
 
 li a {
 	display: block;
-	color: white;
+	color: grey;
 	text-align: center;
 	padding: 14px 20px;
 	text-decoration: none;
@@ -61,7 +64,7 @@ li a {
 }
 
 li a:hover {
-	color: cyan;
+	color: white;
 
 }
 
